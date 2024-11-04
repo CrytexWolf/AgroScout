@@ -1,5 +1,5 @@
 {
-  "name": "agro",
+  "name": "crytexwolf",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
-    "vite": "^5.4.10",
-    "vite-plugin-vue-devtools": "^7.6.2"
+    "vite": "^5.4.10"
   }
 }
