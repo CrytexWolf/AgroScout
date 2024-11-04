@@ -32,8 +32,8 @@
                         <div class="header__translate--lang">RU</div>
                     </div>
                     <div class="header__button">
-                        <a class="header__button--basket" href=""><img src="../assets/img/svg/iconBasket.svg" alt=""></a>
-                        <a class="header__button--menu" href=""><img src="../assets/img/svg/iconMenu.svg" alt=""></a>
+                        <a class="header__button--basket" href="#"><img src="../assets/img/svg/iconBasket.svg" alt=""></a>
+                        <a class="header__button--menu" href="#"><img src="../assets/img/svg/iconMenu.svg" alt=""></a>
                     </div>
                 </div>
             </div>
