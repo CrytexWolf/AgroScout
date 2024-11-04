@@ -4,6 +4,13 @@ import Header from '@/components/Header.vue'
 
 <template>
   <Header />
+
+  <main>
+	<div class="intro">
+		<img src="./assets/img/intro/intro.png" alt="">
+	</div>
+  </main>
+
 </template>
 
 <style>
@@ -13,6 +20,7 @@ body {
 	font-size: 18px;
 	color: #FFFFFF;
 	-webkit-font-smoothing: antialiased;
+	background: #1E1E1E;
 }
 
 *,
